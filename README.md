@@ -1,6 +1,6 @@
 # Illustrations Scraping
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/CamelliaV/illustration-scraping/README.md) [![zh](https://img.shields.io/badge/lang-zh-blue.svg)](https://github.com/CamelliaV/illustration-scraping/README.zh.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/CamelliaV/illustration-scraping/blob/master/README.md) [![zh](https://img.shields.io/badge/lang-zh-blue.svg)](https://github.com/CamelliaV/illustration-scraping/blob/master/README.zh.md)
 
 ## Quick Start:
 
